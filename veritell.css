@@ -1,0 +1,40 @@
+.one ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.one li {
+    float: left;
+}
+
+.one li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.one li a:hover {
+    background-color: #111111;
+}
+#he {
+    text-align:center; 
+}
+
+.#tab1 {
+    display: block;
+    text-align: center;
+    background-color: white;
+    animation: forwards;
+    background-color: white;
+    text-decoration-color: unset;
+
+} 
+.row p {
+    text-decoration-style: dashed;
+    text-decoration-color: ;
+}
